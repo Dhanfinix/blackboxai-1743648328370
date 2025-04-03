@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarm App</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="delete_alarm">Delete Alarm</string>
+    <string name="alarm_label">Alarm Label</string>
+    <string name="save_alarm">Save Alarm</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="select_time">Select Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="no_alarms">No alarms set</string>
+    <string name="tap_to_add">Tap + to add a new alarm</string>
+</resources>
